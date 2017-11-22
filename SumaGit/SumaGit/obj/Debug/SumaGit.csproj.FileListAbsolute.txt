@@ -1,0 +1,9 @@
+C:\Users\2-09\Documents\heroes\SumaGit\SumaGit\bin\Debug\SumaGit.exe.config
+C:\Users\2-09\Documents\heroes\SumaGit\SumaGit\bin\Debug\SumaGit.exe
+C:\Users\2-09\Documents\heroes\SumaGit\SumaGit\bin\Debug\SumaGit.pdb
+C:\Users\2-09\Documents\heroes\SumaGit\SumaGit\obj\Debug\SumaGit.csprojResolveAssemblyReference.cache
+C:\Users\2-09\Documents\heroes\SumaGit\SumaGit\obj\Debug\SumaGit.exe
+C:\Users\2-09\Documents\heroes\SumaGit\SumaGit\obj\Debug\SumaGit.pdb
+C:\SumaGit\SumaGit\bin\Debug\SumaGit.exe.config
+C:\SumaGit\SumaGit\obj\Debug\SumaGit.exe
+C:\SumaGit\SumaGit\obj\Debug\SumaGit.pdb

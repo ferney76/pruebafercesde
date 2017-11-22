@@ -1,0 +1,23 @@
+commit d19be94a467d1bad62260d5fc3c9d80d4eb3bc4c
+Author: ferney76 <ferney76@gmail.com>
+Date:   Tue Oct 3 19:43:34 2017 -0500
+
+    division
+
+commit a3ed2ef402f354f0e847005fb9ad5c8a7df87e08
+Author: ferney76 <ferney76@gmail.com>
+Date:   Tue Oct 3 19:36:05 2017 -0500
+
+    multiplicacion
+
+commit a064c23b86caf4bb7d480fdabc71e1d7704fcd37
+Author: ferney76 <ferney76@gmail.com>
+Date:   Tue Sep 5 20:13:56 2017 -0500
+
+    resta
+
+commit c0e42e669a4d1aa25bcdf71361fbca2fa3ad1b9f
+Author: ferney76 <ferney76@gmail.com>
+Date:   Tue Sep 5 19:50:25 2017 -0500
+
+    GitSuma
